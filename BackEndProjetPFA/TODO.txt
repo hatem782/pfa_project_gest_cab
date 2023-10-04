@@ -1,0 +1,22 @@
+[x] Make Add Admin Route
+[x] Make Add Sec Route
+[x] Make Add Med Route
+[x] Make Login 
+[ ] Make ForgetPass with mail
+
+[-] Make Add Pat
+[-] Make Del Pat
+[-] Make Upt Pat
+[-] Make Shw Pat
+[-] Make SH1 Pat
+
+
+const user = useSelector((state) => state.UserReducer.user);
+isAdminSec(user)&&
+isAdminDoc(user)&&
+
+secretaire : chaima780 123456789
+
+superadmin : hatem780 123456789
+
+dentiste : aziz780 123456789

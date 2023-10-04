@@ -1,0 +1,83 @@
+.ordenance {
+  padding: 30px 20px 40px 20px;
+  position: relative;
+}
+
+.image {
+  width: 100%;
+  height: 100%;
+
+  background-image: url("../../../../../../assets/images/website/Logo2.png");
+  background-size: 70%;
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  z-index: 0;
+
+  opacity: 0.07;
+}
+
+.head {
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+
+.green {
+  color: #17e6c8 !important;
+}
+
+.part-1 {
+  color: #17e6c8 !important;
+}
+
+.part-2 {
+  color: rgb(15, 15, 15);
+}
+
+.size-1 {
+  font-size: 20px !important;
+}
+
+.size-2 {
+  font-size: 16px !important;
+}
+
+.sep-20 {
+  margin-bottom: 20px;
+  display: block;
+}
+
+.sep-50 {
+  margin-bottom: 50px;
+  display: block;
+}
+
+.body {
+  h3 {
+    text-align: center;
+    margin: 35px 0px !important;
+  }
+
+  p {
+    margin: 20px 0px !important;
+    font-size: 19px !important;
+  }
+}
+
+.footer-container {
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-end;
+}
+
+.footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}

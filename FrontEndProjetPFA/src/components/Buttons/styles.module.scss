@@ -1,0 +1,15 @@
+.upload {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  padding: 10px 0px;
+
+  img {
+    width: 80px;
+    height: 80px;
+    object-fit: cover;
+    margin: 0px 10px;
+    cursor: pointer;
+  }
+}

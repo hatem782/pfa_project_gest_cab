@@ -1,0 +1,19 @@
+[X] All in consultation
+    [X] ordenances cruds
+    [X] certeficats cruds
+    [X] exams cruds
+
+[X] All in patient
+    [X] ordenances shows
+    [X] antecedents shows
+    [X] certeficats shows
+
+[X] Recette In One Consult
+
+
+
+[ ] Profile
+[ ] Gest Accée
+[ ] Impayé Seperated
+[ ] Cnam Seperated
+[-] Cnam Sparated
